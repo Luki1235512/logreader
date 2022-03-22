@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LogReader {
 
-    private final String URI = "C:\\logs";
+    private final String URI = "D:\\logs";
     private final File directory = new File(URI);
 
     void init() throws IOException {
